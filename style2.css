@@ -1,0 +1,11 @@
+.container{
+    width: 50vw;
+    height: 50vh;
+    border-color: black;
+}
+
+.container form {
+    display: flex;
+    flex-wrap: wrap;
+
+}
